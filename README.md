@@ -1,4 +1,4 @@
-# lib_xml
+<h1> PHP libxml Functions</h1>
 
 The libxml functions and constants are used together with SimpleXML, XSLT and DOM functions.
 
